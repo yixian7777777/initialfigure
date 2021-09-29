@@ -1,0 +1,5 @@
+started:    2021-09-27 12:30:47
+ended:      2021-09-27 13:14:35
+duration:   0:43:48.502531
+host:       eb5217ca497b
+tasks:      parsec-x264-simsmall-3

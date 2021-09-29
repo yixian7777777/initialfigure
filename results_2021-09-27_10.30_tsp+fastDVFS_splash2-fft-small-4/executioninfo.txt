@@ -1,0 +1,5 @@
+started:    2021-09-27 21:44:45
+ended:      2021-09-27 21:59:38
+duration:   0:14:52.518505
+host:       eb5217ca497b
+tasks:      splash2-fft-small-4
