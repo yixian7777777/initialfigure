@@ -1,0 +1,5 @@
+started:    2021-09-29 03:36:46
+ended:      2021-09-29 03:51:11
+duration:   0:14:24.955916
+host:       bfee71cd07ba
+tasks:      splash2-lu.ncont-small-4

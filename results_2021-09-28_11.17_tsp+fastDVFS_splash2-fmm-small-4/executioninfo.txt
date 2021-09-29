@@ -1,0 +1,5 @@
+started:    2021-09-28 17:38:53
+ended:      2021-09-28 19:23:24
+duration:   1:44:31.162237
+host:       bfee71cd07ba
+tasks:      splash2-fmm-small-4

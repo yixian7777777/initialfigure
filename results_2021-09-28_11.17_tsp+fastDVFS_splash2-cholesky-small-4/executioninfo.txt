@@ -1,0 +1,5 @@
+started:    2021-09-29 01:57:03
+ended:      2021-09-29 02:57:07
+duration:   1:00:03.526429
+host:       bfee71cd07ba
+tasks:      splash2-cholesky-small-4
