@@ -1,0 +1,5 @@
+started:    2021-09-27 18:39:21
+ended:      2021-09-27 18:58:54
+duration:   0:19:33.445986
+host:       66d1a0f7fdeb
+tasks:      splash2-ocean.cont-small-4

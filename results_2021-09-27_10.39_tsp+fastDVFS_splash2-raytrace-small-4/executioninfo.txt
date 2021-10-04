@@ -1,0 +1,5 @@
+started:    2021-09-27 20:59:54
+ended:      2021-09-28 00:05:07
+duration:   3:05:12.945828
+host:       66d1a0f7fdeb
+tasks:      splash2-raytrace-small-4
