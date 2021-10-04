@@ -1,0 +1,5 @@
+started:    2021-09-25 13:26:46
+ended:      2021-09-25 19:14:12
+duration:   5:47:26.116492
+host:       1105afa4ac18
+tasks:      parsec-canneal-simsmall-3

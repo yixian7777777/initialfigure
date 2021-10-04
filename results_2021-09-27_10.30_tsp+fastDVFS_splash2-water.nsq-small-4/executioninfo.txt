@@ -1,0 +1,5 @@
+started:    2021-09-27 20:23:45
+ended:      2021-09-27 20:43:46
+duration:   0:20:00.848538
+host:       eb5217ca497b
+tasks:      splash2-water.nsq-small-4

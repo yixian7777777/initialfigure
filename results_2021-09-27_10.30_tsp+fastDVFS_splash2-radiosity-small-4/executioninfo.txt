@@ -1,0 +1,5 @@
+started:    2021-09-27 17:05:32
+ended:      2021-09-27 18:09:43
+duration:   1:04:10.118170
+host:       eb5217ca497b
+tasks:      splash2-radiosity-small-4
